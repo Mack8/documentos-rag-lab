@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+.env
+
+# Indices y documentos de prueba: pueden contener datos reales
+indice*.json
+*.index.json
+documentos-demo/
+*.pdf
